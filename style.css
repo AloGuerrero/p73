@@ -1,0 +1,19 @@
+img{
+    width:100%;
+
+    border: none;
+}
+
+.escuela{
+    border:3px;
+    border-style: dotted;
+    border-color: lightgray;
+}
+
+.escuela img{
+    width: 100%;
+}
+
+.escuela h5, .escuela p{
+    margin: 10px;
+}
